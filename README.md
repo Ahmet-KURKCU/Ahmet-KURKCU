@@ -8,13 +8,12 @@
 
 ## 🚀 Hakkımda
 
-Web geliştirme ve siber güvenlik alanlarında kendimi geliştiren bir öğrenciyim.  
-HTML, CSS, JavaScript ve PHP-MySQL teknolojileriyle projeler geliştiriyorum.  
+Web geliştirme ve siber güvenlik alanlarında kendini sürekli geliştiren, öğrenme odaklı bir geliştiriciyim.
+PHP-MySQL tabanlı backend geliştirme, veritabanı modelleme, API mantığı ve yerel sunucu yapılandırmaları üzerinde pratik yapıyorum.
 
-Kendi yerel sunucularımı kurarak backend mantığını, veritabanı yapılarını ve güvenlik süreçlerini pratikte öğreniyorum.  
-Aynı zamanda ağ güvenliği, sistem yönetimi ve etik hacking konularına ilgi duyuyorum.
+Bunun yanı sıra ağ güvenliği, zafiyet analizi ve güvenli kod yazımı gibi konularda araştırmalar yaparak yazılımlarımı daha güvenli hale getirmeye odaklanıyorum.
 
-Üretmeyi, araştırmayı ve öğrendiklerimi projelere dönüştürmeyi seviyorum.
+Hedefim, modern web teknolojilerini güvenli yazılım prensipleriyle birleştirerek hem sağlam hem de ölçeklenebilir projeler geliştirmek.
 
 ---
 
