@@ -72,7 +72,6 @@ Hedefim, modern web teknolojilerini güvenli yazılım prensipleriyle birleştir
 
 - **E-posta:** kurkcuahmet.dev@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/ahmet-kürkçü-bb7900390  
-- **Portföy:** https://ahmetkurkcu34.wordpress.com/  
 
 ---
 
