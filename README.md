@@ -1,23 +1,25 @@
 <h1 align="center">👋 Merhaba, ben Ahmet Kürkçü</h1>
 
 <p align="center">
-  Web Geliştirme • Backend • Siber Güvenlik • Yerel Sunucu Yapıları
+  Web Developer • JavaScript Learner • Cyber & Network Security Enthusiast
 </p>
 
 ---
 
 ## 🚀 Hakkımda
 
-Web geliştirme ve siber güvenlik alanlarında kendini sürekli geliştiren, öğrenme odaklı bir geliştiriciyim.
-PHP-MySQL tabanlı backend geliştirme, veritabanı modelleme, API mantığı ve yerel sunucu yapılandırmaları üzerinde pratik yapıyorum.
+Web geliştirme ve siber güvenlik alanlarında kendini sürekli geliştiren, öğrenmeye ve üretmeye odaklı bir geliştiriciyim.  
+Modern web teknolojilerini güvenli yazılım prensipleriyle birleştirerek sürdürülebilir ve ölçeklenebilir projeler geliştirmeyi hedefliyorum.
 
-Bunun yanı sıra ağ güvenliği, zafiyet analizi ve güvenli kod yazımı gibi konularda araştırmalar yaparak yazılımlarımı daha güvenli hale getirmeye odaklanıyorum.
+Şu anda **JavaScript temellerimi derinleştiriyor**, ardından **Node.js ve React** ile backend ve frontend tarafında kendimi ileri seviyeye taşımayı planlıyorum.  
+Bunun yanında HTML, CSS ve JavaScript ile sağlam ve düzenli frontend yapıları kuruyorum.
 
-Hedefim, modern web teknolojilerini güvenli yazılım prensipleriyle birleştirerek hem sağlam hem de ölçeklenebilir projeler geliştirmek.
+Siber güvenlik ve ağ güvenliği konularına olan ilgim sayesinde; geliştirdiğim projelerde yalnızca işlevselliği değil, **güvenliği, performansı ve sistem dayanıklılığını** da ön planda tutuyorum.  
+Secure Coding prensiplerine uygun, saldırılara karşı dirençli kod yapıları oluşturmaya önem veriyorum.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Kullandığım / Öğrendiğim Teknolojiler
 
 ### 🔹 **Frontend**
 - HTML5  
@@ -25,46 +27,47 @@ Hedefim, modern web teknolojilerini güvenli yazılım prensipleriyle birleştir
 - JavaScript  
 
 ### 🔹 **Backend**
+- JavaScript (Node.js öğrenme sürecinde)  
 - PHP  
 - MySQL  
 - XAMPP / Apache  
-- Temel API yapıları
+- Temel REST API mantığı
 
-### 🔹 **Siber Güvenlik**
-- Ağ Temelleri (TCP/IP, Port, DNS, Subnet)  
-- OWASP mantığı  
-- Basit güvenlik testleri  
+### 🔹 **Siber & Ağ Güvenliği**
+- Ağ temelleri (TCP/IP, Port, DNS, Subnet)  
+- OWASP Top 10 mantığı  
+- Temel zafiyet analizi  
 - Yerel sunucu güvenliği
 
 ### 🔹 **Araçlar & Ortamlar**
 - Visual Studio Code  
 - Git & GitHub  
-- Windows / Linux (temel)
+- Windows / Linux (temel)  
 
 ---
 
 ## 📌 Üzerinde Çalıştığım Projeler
 
-- 🔧 **Yeni Web Sitesi Projesi (devam ediyor)**  
-  Backend + frontend geliştirme, local server testleri.
+- 🔧 **Kişisel Portföy Web Sitesi (devam ediyor)**  
+  Frontend animasyonları, local server testleri ve modern arayüz çalışmaları.
 
 - 🌐 **IP / Lokasyon Bilgi Aracı**  
-  API’den veri çekme, sade arayüz.
+  API entegrasyonu ve sade kullanıcı arayüzü.
 
 - 🔐 **Basit Login / Register Sistemi**  
-  Güvenli giriş yapısı, session mantığı.
+  Session mantığı, temel güvenlik önlemleri.
 
-- 🧪 **Yerel Sunucu Üzerinde Test Ortamı**  
-  Apache + PHP + MySQL ile proje altyapısı.
+- 🧪 **Yerel Sunucu Test Ortamı**  
+  Apache + PHP + MySQL ile proje altyapısı ve test süreçleri.
 
 ---
 
 ## 🎯 Hedeflerim
 
-- ✔ Web geliştirme alanında daha profesyonel projeler üretmek  
-- ✔ Siber güvenlik tarafında pratik becerilerimi artırmak  
-- ✔ İleride kendi projelerimi internete açıp yayınlamak  
-- ✔ Backend + güvenlik odaklı bir full-stack geliştirme seviyesine ulaşmak  
+- ✔ JavaScript, Node.js ve React alanlarında uzmanlaşmak  
+- ✔ Güvenlik farkındalığı yüksek web projeleri geliştirmek  
+- ✔ Kendi projelerimi internete açarak canlı ortamlarda yayınlamak  
+- ✔ Backend ve güvenlik odaklı bir full-stack geliştirici seviyesine ulaşmak  
 
 ---
 
@@ -75,4 +78,4 @@ Hedefim, modern web teknolojilerini güvenli yazılım prensipleriyle birleştir
 
 ---
 
-<h3 align="center">✨ Sürekli gelişiyor ve yeni projeler üretiyorum. Repolarımı takip etmeyi unutmayın!</h3>
+<h3 align="center">✨ Sürekli öğreniyor, geliştiriyor ve yeni projeler üretiyorum.</h3>
