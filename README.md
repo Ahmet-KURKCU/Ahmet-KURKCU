@@ -74,7 +74,7 @@ Secure Coding prensiplerine uygun, saldırılara karşı dirençli kod yapılar�
 ## 📫 Bana Ulaşın
 
 - **E-posta:** kurkcuahmet.dev@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ahmet-kürkçü-bb7900390  
+- **LinkedIn:** https://www.linkedin.com/in/ahmet-kurkcu
 
 ---
 
